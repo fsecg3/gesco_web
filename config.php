@@ -1,6 +1,6 @@
 <?php
 
-$host = "10.10.0.30";
+$host = "gesco.univ-alger3.dz:3306";
 
 $username = "gesco_web";
 
